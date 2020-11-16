@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="addPesonPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="mainMenuPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="recognationPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="searchPersonPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="SignInPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="SignUp.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="addPesonPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="mainMenuPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="recognationPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="searchPersonPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="SignInPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="SignUp.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

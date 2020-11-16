@@ -1,0 +1,42 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="1.jpg" />
+    <None Remove="2.jpg" />
+    <None Remove="add_person.png" />
+    <None Remove="avto.png" />
+    <None Remove="avto_grey.png" />
+    <None Remove="avto_line.png" />
+    <None Remove="bg_recognize.png" />
+    <None Remove="filter_recognize.png" />
+    <None Remove="form_sign.png" />
+    <None Remove="Login.png" />
+    <None Remove="logo.png" />
+    <None Remove="main_menu.png" />
+    <None Remove="pwd.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="2.jpg" />
+    <Resource Include="add_person.png" />
+    <Resource Include="avto.png" />
+    <Resource Include="avto_grey.png" />
+    <Resource Include="avto_line.png" />
+    <Resource Include="bg_recognize.png" />
+    <Resource Include="filter_recognize.png" />
+    <Resource Include="form_sign.png" />
+    <Resource Include="Login.png" />
+    <Resource Include="logo.png" />
+    <Resource Include="main_menu.png">
+      <CopyToOutputDirectory></CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="pwd.png" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a8128d98-887b-4b3e-90bc-7e0ac74523ca" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1clonOXzV3iYE8ABSSvg3NlpAPp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/python" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sanek\Desktop\Practika\Diplom\Sasha\pythonfacedarsmaster\cs\NeuroPY\bin\Debug\netcoreapp3.1" />
+      <recent name="C:\Users\sanek\Desktop\Practika\Diplom\Sasha\python-facedars-master" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sanek\Desktop\Practika\Diplom\Sasha\python-facedars-master\python" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.test">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-facedars-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cs/NeuroPY/bin/Debug/netcoreapp3.1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cs/NeuroPY/bin/Debug/netcoreapp3.1/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="one" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-facedars-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fuck" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fuck/one.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="one.pyw" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-facedars-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fuck" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fuck/one.pyw" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sec" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-facedars-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fuck" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fuck/sec.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-facedars-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cs/NeuroPY/bin/Debug/netcoreapp3.1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cs/NeuroPY/bin/Debug/netcoreapp3.1/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.one.pyw" />
+        <item itemvalue="Python.one" />
+        <item itemvalue="Python.sec" />
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8128d98-887b-4b3e-90bc-7e0ac74523ca" name="Default Changelist" comment="" />
+      <created>1591112706058</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591112706058</updated>
+      <workItem from="1591112710634" duration="206000" />
+      <workItem from="1591267072600" duration="10253000" />
+      <workItem from="1591281414657" duration="11967000" />
+      <workItem from="1591359644636" duration="10365000" />
+      <workItem from="1592547295135" duration="50000" />
+      <workItem from="1592547611127" duration="486000" />
+      <workItem from="1594385149393" duration="978000" />
+      <workItem from="1594386264081" duration="1076000" />
+      <workItem from="1602253677756" duration="65000" />
+      <workItem from="1602253782646" duration="182000" />
+      <workItem from="1602578484761" duration="1005000" />
+      <workItem from="1602585715403" duration="7900000" />
+      <workItem from="1602697776523" duration="2353000" />
+      <workItem from="1602700141905" duration="3357000" />
+      <workItem from="1602740128598" duration="11106000" />
+      <workItem from="1602784380140" duration="4052000" />
+      <workItem from="1602826773982" duration="9267000" />
+      <workItem from="1602837174643" duration="184000" />
+      <workItem from="1603019321748" duration="19291000" />
+      <workItem from="1603127090762" duration="8065000" />
+      <workItem from="1603213930485" duration="3359000" />
+      <workItem from="1603217349777" duration="2849000" />
+      <workItem from="1603292082716" duration="8094000" />
+      <workItem from="1603308292789" duration="122000" />
+      <workItem from="1603378810329" duration="10163000" />
+      <workItem from="1603472701160" duration="10116000" />
+      <workItem from="1603634378474" duration="7408000" />
+      <workItem from="1603642184026" duration="120000" />
+      <workItem from="1603733794432" duration="4970000" />
+      <workItem from="1603800887862" duration="6541000" />
+      <workItem from="1603884649949" duration="13714000" />
+      <workItem from="1603900417427" duration="695000" />
+      <workItem from="1604521560012" duration="133000" />
+      <workItem from="1604943904774" duration="8583000" />
+      <workItem from="1604956350057" duration="4077000" />
+      <workItem from="1605132716445" duration="4518000" />
+      <workItem from="1605137882749" duration="2649000" />
+      <workItem from="1605197508893" duration="16057000" />
+      <workItem from="1605381187950" duration="3243000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Inspections" timestamp="1602829751887">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1602829751887" />
+    <state x="349" y="376" width="482" height="324" key="GridCell.Tab.-1.bottom" timestamp="1603638228187">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="349" y="376" width="482" height="324" key="GridCell.Tab.-1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603638228187" />
+    <state x="349" y="376" width="482" height="324" key="GridCell.Tab.-1.center" timestamp="1603638228187">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="349" y="376" width="482" height="324" key="GridCell.Tab.-1.center/0.0.1536.824@0.0.1536.824" timestamp="1603638228187" />
+    <state x="349" y="376" width="482" height="324" key="GridCell.Tab.-1.left" timestamp="1603638228187">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="349" y="376" width="482" height="324" key="GridCell.Tab.-1.left/0.0.1536.824@0.0.1536.824" timestamp="1603638228187" />
+    <state x="349" y="376" width="482" height="324" key="GridCell.Tab.-1.right" timestamp="1603638228187">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="349" y="376" width="482" height="324" key="GridCell.Tab.-1.right/0.0.1536.824@0.0.1536.824" timestamp="1603638228187" />
+    <state width="746" height="195" key="GridCell.Tab.0.bottom" timestamp="1605224466626">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605224466626" />
+    <state width="746" height="195" key="GridCell.Tab.0.center" timestamp="1605224466626">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605224466626" />
+    <state width="746" height="195" key="GridCell.Tab.0.left" timestamp="1605224466626">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605224466626" />
+    <state width="746" height="195" key="GridCell.Tab.0.right" timestamp="1605224466626">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605224466626" />
+    <state x="0" y="500" width="482" height="324" key="GridCell.Tab.1.bottom" timestamp="1603638210929">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="500" width="482" height="324" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603638210929" />
+    <state x="0" y="500" width="482" height="324" key="GridCell.Tab.1.center" timestamp="1603638210929">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="500" width="482" height="324" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1603638210929" />
+    <state x="0" y="500" width="482" height="324" key="GridCell.Tab.1.left" timestamp="1603638210929">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="500" width="482" height="324" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1603638210929" />
+    <state x="0" y="500" width="482" height="324" key="GridCell.Tab.1.right" timestamp="1603638210929">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="500" width="482" height="324" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1603638210929" />
+    <state x="366" y="287" width="276" height="352" key="GridCell.Tab.2.bottom" timestamp="1603635491494">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="366" y="287" width="276" height="352" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603635491494" />
+    <state x="366" y="287" width="276" height="352" key="GridCell.Tab.2.center" timestamp="1603635491494">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="366" y="287" width="276" height="352" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1603635491494" />
+    <state x="366" y="287" width="276" height="352" key="GridCell.Tab.2.left" timestamp="1603635491494">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="366" y="287" width="276" height="352" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1603635491494" />
+    <state x="366" y="287" width="276" height="352" key="GridCell.Tab.2.right" timestamp="1603635491494">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="366" y="287" width="276" height="352" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1603635491494" />
+    <state x="426" y="110" key="SettingsEditor" timestamp="1605138247181">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="426" y="110" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1605138247181" />
+    <state width="775" height="419" key="XDebugger.FullValuePopup" timestamp="1603890253902">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="775" height="419" key="XDebugger.FullValuePopup/0.0.1536.824@0.0.1536.824" timestamp="1603890253902" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1605381191372">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1605381191372" />
+    <state x="366" y="287" width="290" height="417" key="dock-window-1" timestamp="1603635641773">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="366" y="287" width="290" height="417" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1603635641773" />
+    <state x="554" y="406" width="497" height="417" key="dock-window-2" timestamp="1603638308780">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="554" y="406" width="497" height="417" key="dock-window-2/0.0.1536.824@0.0.1536.824" timestamp="1603638308780" />
+    <state x="349" y="376" width="496" height="389" key="dock-window-3" timestamp="1603638308780">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="349" y="376" width="496" height="389" key="dock-window-3/0.0.1536.824@0.0.1536.824" timestamp="1603638308780" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1603385427111">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1603385427111" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pythonfacedarsmaster$sec.coverage" NAME="sec Coverage Results" MODIFIED="1605197775487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fuck" />
+    <SUITE FILE_PATH="coverage/pythonfacedarsmaster$one_pyw.coverage" NAME="one.pyw Coverage Results" MODIFIED="1605198673842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fuck" />
+    <SUITE FILE_PATH="coverage/python_facedars_master$testdb.coverage" NAME="testdb Coverage Results" MODIFIED="1603379249417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
+    <SUITE FILE_PATH="coverage/python_facedars_master$finding_a_person__1_.coverage" NAME="finding_a_person (1) Coverage Results" MODIFIED="1602750771841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
+    <SUITE FILE_PATH="coverage/python_facedars_master$finding_a_person.coverage" NAME="finding_a_person Coverage Results" MODIFIED="1602698790045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/real-time-object-detection" />
+    <SUITE FILE_PATH="coverage/python_facedars_master$real_time_object_detection.coverage" NAME="real_time_object_detection Coverage Results" MODIFIED="1603034652471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
+    <SUITE FILE_PATH="coverage/pythonfacedarsmaster$one.coverage" NAME="one Coverage Results" MODIFIED="1605198623234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fuck" />
+    <SUITE FILE_PATH="coverage/python_facedars_master$face_detection_image_demo.coverage" NAME="face_detection_image_demo Coverage Results" MODIFIED="1591275997239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_facedars_master$object__1_.coverage" NAME="object (1) Coverage Results" MODIFIED="1603034360195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/python/object_detected" />
+    <SUITE FILE_PATH="coverage/pythonfacedarsmaster$main.coverage" NAME="main Coverage Results" MODIFIED="1605139938056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cs/NeuroPY/bin/Debug/netcoreapp3.1" />
+    <SUITE FILE_PATH="coverage/python_facedars_master$test.coverage" NAME="test Coverage Results" MODIFIED="1604953053697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
+    <SUITE FILE_PATH="coverage/python_facedars_master$working_with_the_database__1_.coverage" NAME="working_with_the_database (1) Coverage Results" MODIFIED="1603480554685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
+    <SUITE FILE_PATH="coverage/python_facedars_master$object.coverage" NAME="object Coverage Results" MODIFIED="1603030496842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
+    <SUITE FILE_PATH="coverage/python_facedars_master$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1604946778404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
+    <SUITE FILE_PATH="coverage/python_facedars_master$face_recognition_video_demo.coverage" NAME="face_recognition_video_demo Coverage Results" MODIFIED="1602586070346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonfacedarsmaster$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1605139078283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
+    <SUITE FILE_PATH="coverage/pythonfacedarsmaster$test.coverage" NAME="test Coverage Results" MODIFIED="1605208560571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cs/NeuroPY/bin/Debug/netcoreapp3.1" />
+    <SUITE FILE_PATH="coverage/python_facedars_master$main.coverage" NAME="main Coverage Results" MODIFIED="1602700189995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_facedars_master$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1604948198260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
+    <SUITE FILE_PATH="coverage/python_facedars_master$real_time_object_detection__1_.coverage" NAME="real_time_object_detection (1) Coverage Results" MODIFIED="1602593602339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/real-time-object-detection" />
+  </component>
+</project>

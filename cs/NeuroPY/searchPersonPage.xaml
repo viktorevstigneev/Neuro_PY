@@ -1,0 +1,20 @@
+﻿<Page x:Class="NeuroPY.searchPersonPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:NeuroPY"
+     
+      Title="searchPersonPage" Width="768" Height="450">
+
+    <Grid>
+        <Image Source="/filter_recognize.png" />
+        <ComboBox Margin="134,47,502,375">
+            <Label Content="1212"/>
+            <Label Content="121fdcsd2"/>
+            <Label Content="1eff212"/>
+            <Label Content="12edf12"/>
+        </ComboBox>
+        <Calendar x:Name="r" Height="30" MouseEnter="r_MouseEnter" MouseLeave="r_MouseLeave" Margin="411,45,180,375"/>
+    </Grid>
+</Page>

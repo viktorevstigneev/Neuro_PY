@@ -1,0 +1,17 @@
+﻿<Page x:Class="NeuroPY.mainMenuPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:NeuroPY"
+
+      Title="mainMenuPage" Width="768" Height="450">
+
+    <Grid>
+        <Image Source="/main_menu.png" Stretch="Fill"/>
+        <Button Content="Add person" HorizontalAlignment="Left" Margin="92,125,0,288"  Background="Black" Foreground="White" BorderBrush="Transparent" Width="157" Click="Button_Click" />
+        <Button x:Name="recognation" Content="Recognation" HorizontalAlignment="Left" Margin="92,206,0,206"  Background="Black" Foreground="White" BorderBrush="Transparent" Width="157" Click="recognation_Click"  />
+        <Button x:Name="search" Content="Search" HorizontalAlignment="Left" Margin="296,125,0,292"  Background="Black" Foreground="White" BorderBrush="Transparent" Width="157" Click="search_Click" />
+
+    </Grid>
+</Page>

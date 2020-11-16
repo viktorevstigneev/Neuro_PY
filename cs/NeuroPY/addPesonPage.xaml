@@ -1,0 +1,24 @@
+﻿<Page x:Class="NeuroPY.addPesonPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:NeuroPY"
+
+      Title="addPesonPage" Width="768" Height="450">
+
+    <Grid>
+        <Image Source="/add_person.png"/>
+        <TextBox x:Name="textbox_surname"  Margin="80,135,600,298" Text="Surname" TextWrapping="Wrap" Width="120" Height="17" Background="Transparent" Foreground="White" BorderBrush="Transparent" />
+        <TextBox x:Name="textbox_name"  Margin="80,170,600,264" Text="Name" TextWrapping="Wrap" Width="120" Height="17" Background="Transparent" Foreground="White" BorderBrush="Transparent" />
+        <TextBox x:Name="textbox_middlename" Margin="80,211,600,222" Text="Middlename" TextWrapping="Wrap" Width="120" Height="17" Background="Transparent" Foreground="White" BorderBrush="Transparent" />
+        <TextBox x:Name="textbox_group" Margin="80,250,600,183" Text="Group" TextWrapping="Wrap" Width="120" Height="17" Background="Transparent" Foreground="White" BorderBrush="Transparent" />
+        <TextBox x:Name="textbox_curator" Margin="80,285,600,148" Text="Curator" TextWrapping="Wrap" Width="120" Height="17" Background="Transparent" Foreground="White" BorderBrush="Transparent" />
+        <Button Content="connect" HorizontalAlignment="Left" Margin="80,336,0,94"  Height="20"  Background="Black" Foreground="White" BorderBrush="Transparent" Width="142" Click="Button_Click" />
+        <Label x:Name="CounterLabel" Content="5" Margin="467,55,190,171" Foreground="White" FontSize="192" FontWeight="Normal"/>
+        <Label Content="После нажатия кнопки 'connect' появится окно с занесенными кадрами " Margin="181,10,135,410" Foreground="White" FontSize="14" FontWeight="Normal"/>
+        <Button x:Name="back" Content="Back" HorizontalAlignment="Left" Margin="522,391,0,39"  Height="20"  Background="Black" Foreground="White" BorderBrush="Transparent" Width="142" Click="back_Click" />
+        <Image x:Name="face_pict" HorizontalAlignment="Left" Height="279" Margin="377,45,0,0" VerticalAlignment="Top" Width="279" FlowDirection="LeftToRight" UseLayoutRounding="False" StretchDirection="Both" Stretch="Uniform" AutomationProperties.IsOffscreenBehavior="Default"/>
+
+    </Grid>
+</Page>
